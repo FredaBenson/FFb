@@ -1,0 +1,23 @@
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+    color: crimson;
+}
+
+h2 {
+    color: indigo;
+}
+
+h3 {
+    color: blueviolet;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dashed;
+    border-color: turquoise;
+    border-width: 3px;
+    width: 1009px;
+}
